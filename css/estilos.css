@@ -1,0 +1,277 @@
+*{  margin: 0 ;  padding:  0;  }
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+nav img{
+	width: 200px;
+	height: auto;
+    display: inline-block;
+}
+#logo{
+    display: inline-block;
+    padding-right: 114px;
+    padding-top: 10px;
+    
+}
+
+
+
+.barra{
+    
+	font-size: 43px;
+	padding-top: 0%;
+	display: inline-block;
+    padding-right: 0%;
+    padding-bottom: 10px;
+	text-align: right;
+    font-family: "Simply Rounded";
+}
+.font-family, .font-family p {
+    font-family: "Simply Rounded";
+    padding-bottom: 10px
+}
+.barra li{
+	list-style-type: none;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 24px;
+}
+.barra a{
+	text-decoration: none;
+	
+	margin-left: 15px;
+}
+
+
+
+.home{
+    background-image: url(../img/DONA-DE-CHOCOLATE.gif);
+    background-size: cover;
+    height: 852px;
+    background-repeat: no-repeat;
+}
+#cuadrado {
+    background-image:url(../img/cuadrado-de-fondo.gif); 
+    background-repeat: no-repeat ; 
+    background-size: cover;
+    background-position: center center;
+}  
+#cuadrado h1{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+div h1{
+    text-align: right;
+    bottom: 100px;
+    margin-top: 200px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    font-size: 130px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+
+
+.registrate{
+    position: absolute;
+    font-size: 44px;
+    color: white;
+    padding-top: 110px;
+    margin-left: 90px;
+   
+}
+main{
+    background-image: url(../img/fondo-pastelero2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(234, 232, 233);
+    width: auto;
+    height: 916px;
+}
+
+
+.h1-de-cuenta{
+    font-size: 78px;
+    padding-top: 0px;
+    display: inline-block;
+    margin-left: 541px;
+    margin-right: 405px;
+    
+    
+}
+.imagen-mariposa-2{
+    margin-left: 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+}
+#cuenta{
+    margin-top: 100px;
+}
+.imagen-mariposa-1{
+    position: absolute;
+}
+.nombre-mail-y-contraseña{
+    margin-top: 149px;
+    padding: 12px 26% 7px 28%;
+   
+    
+}
+.texto{
+    font-size: 38px;
+    line-height: 70px;
+    background-color: rgb(221, 247, 247);
+    border-radius: 39px;
+    padding-left: 32px;
+
+}
+.mariposa{
+    display: inline-block;
+    padding: 61px 0% 29px 38%;
+}
+.mariposa-imagen{
+    float: left;
+    height: 221px;
+}
+
+.padding-de-texto{
+    padding: 9px;
+}
+#container-de-productos{
+    background-image: url(../img/fondo-de-productos.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: rgb(234, 232, 233);
+    width: auto;
+    height: 916px;
+}
+#h1-de-productos{
+    text-align: left;
+    font-size: 44px;
+    margin: 0px 279px 0px 358px;
+    padding-top: 6%;
+    padding-bottom: 3%;
+}
+.productos{
+    display: inline-block;
+}
+
+.productos figure img{
+    padding-left: 4px;
+    display: inline-block;
+}
+#img1, #img2 ,#img3, #img4{
+    padding: 25px;
+}
+.container{
+    margin-left: 13%;
+    margin-top: 3%;
+}
+.precios-nombres1{
+    display: inline-block;
+    font-size: 38px;
+    padding-left: 5%
+}
+
+.precios-nombres2{
+    display: inline-block;
+    font-size: 38px;
+    padding-left: 7%;
+}
+
+.precios-nombres3{
+    display: inline-block;
+    font-size: 38px;
+    padding-left: 11%;
+}
+.precios-nombres4{
+    display: inline-block;
+    font-size: 38px;
+    padding-left: 13%;
+}
+.precios{
+    display: inline-block;
+    font-size: 38px;
+    padding-left: 6%;
+}
+.precios-de-Galletas{
+    display: inline-block;
+    font-size: 38px;
+    padding-left: 2%
+}
+#h1-de-galeria{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 70px;
+}
+#fondo-galeria{
+    background-image: url(../img/fondo-galeria.gif);
+    background-size: cover;
+    height: 852px;
+    background-repeat: no-repeat;
+    background-color: rgb(234, 232, 233);
+}
+.fondo-footer{
+    background-image: url(../img/footer.png);
+    height: 852px;
+    background-repeat: no-repeat;
+    background-color: rgb(234, 232, 233);
+}
+#h1-de-footer{
+    font-size: 67px;
+    text-align: center;
+    padding-top: 3%;
+}
+.torre-eiffel{
+   
+    padding: 0px 38px 93px 60px;
+    vertical-align: middle;
+}
+
+.display-inline-block{
+    display: inline-block;
+    margin: 0% 0% 0% 8%;
+    color: white;
+    font-size: 21px
+  
+}
+.display-inline-block h2{
+    font-size: 72px;
+    padding-bottom: 4%;
+}
+.redes, .redes li{
+    display: inline-block;
+    padding-left: 18px;
+}
+#h1-de-footer footer{
+    padding-left: 18px;
+}
+#contactos-footer{
+    margin-top: 17%;
+}
+.section-de-las-redes{
+    display: inline-block;
+   
+}
+#tamaño-del-section{
+    width: 1055px;
+    display: inline-block
+
+}
+.tamaño-del-section-home{
+    width: 935px;
+    display: inline-block;
+    margin-top: 24%;
+}
+
+
+
